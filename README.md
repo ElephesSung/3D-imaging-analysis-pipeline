@@ -74,3 +74,14 @@ For questions or collaborations, please reach out to Elephes The Martian at eu23
 
 This project is licensed under the MIT License. Feel free to use and modify it for academic or commercial purposes.
 
+
+cff-version: 0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Sung
+  given-names: Elephes
+orcid: https://orcid.org/0000-0003-2091-542X
+title:ElephesSung/3D-imaging-analysis-pipeline: Initial Release: 3D Imaging Analysis Pipeline
+version: v0.1
+date-released: 2025-08-01
+
