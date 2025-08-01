@@ -75,13 +75,39 @@ For questions or collaborations, please reach out to Elephes The Martian at eu23
 This project is licensed under the MIT License. Feel free to use and modify it for academic or commercial purposes.
 
 
-cff-version: 0.1
-message: "If you use this software, please cite it as below."
-authors:
-- family-names: Sung
-  given-names: Elephes
-orcid: https://orcid.org/0000-0003-2091-542X
-title:ElephesSung/3D-imaging-analysis-pipeline: Initial Release: 3D Imaging Analysis Pipeline
-version: v0.1
-date-released: 2025-08-01
+## Contact
+
+For questions or collaborations, please reach out to Elephes The Martian at [eu23@ic.ac.uk](mailto\:eu23@ic.ac.uk).
+
+## Citation
+
+To cite this repository, use the following format:
+
+**APA (7th ed.)**
+
+> Sung, E. (2025). *3D-imaging-analysis-pipeline: Initial Release* (Version v0.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
+
+**BibTeX**
+
+```bibtex
+@software{Sung2025_3Dimaging_pipeline,
+  author       = {Elephes Sung},
+  title        = {{3D-imaging-analysis-pipeline: Initial Release}},
+  version      = {v0.1},
+  date         = {2025-08-01},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.1234567},
+  url          = {https://github.com/ElephesSung/3D-imaging-analysis-pipeline}
+}
+```
+
+**Zenodo DOI**
+
+> [https://doi.org/10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify it for academic or commercial purposes.
+
+
 
