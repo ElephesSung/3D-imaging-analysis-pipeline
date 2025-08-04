@@ -85,25 +85,25 @@ To cite this repository, use the following format:
 
 **APA (7th ed.)**
 
-> Sung, E. (2025). *3D-imaging-analysis-pipeline: Initial Release* (Version v0.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
+> Sung, E. (2025). *3D-imaging-analysis-pipeline: Initial Release* (Version v0.1) [Computer software]. Zenodo. [10.5281/zenodo.16689460]{(https://doi.org/10.5281/zenodo.16689460)}
 
 **BibTeX**
 
 ```bibtex
 @software{Sung2025_3Dimaging_pipeline,
-  author       = {Elephes Sung},
-  title        = {{3D-imaging-analysis-pipeline: Initial Release}},
-  version      = {v0.1},
-  date         = {2025-08-01},
-  publisher    = {Zenodo},
-  doi          = {[10.5281/zenodo.16689460](https://doi.org/10.5281/zenodo.16689460)},
-  url          = {https://github.com/ElephesSung/3D-imaging-analysis-pipeline}
+  author    = {Elephes Sung},
+  title     = {{3D‑imaging‑analysis‑pipeline: Initial Release}},
+  version   = {v0.1},
+  date      = {2025‑08‑01},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.16689460},
+  url       = {https://github.com/ElephesSung/3D-imaging-analysis-pipeline}
 }
 ```
 
 **Zenodo DOI**
 
-> [https://doi.org/10.5281/zenodo.1234567](https://doi.org/10.5281/zenodo.1234567)
+> [https://doi.org/10.5281/zenodo.16689460](https://doi.org/10.5281/zenodo.16689460)
 
 ## License
 
