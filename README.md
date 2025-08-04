@@ -96,7 +96,7 @@ To cite this repository, use the following format:
   version      = {v0.1},
   date         = {2025-08-01},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.1234567},
+  doi          = {[10.5281/zenodo.16689460](https://doi.org/10.5281/zenodo.16689460)},
   url          = {https://github.com/ElephesSung/3D-imaging-analysis-pipeline}
 }
 ```
