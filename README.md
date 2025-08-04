@@ -85,7 +85,7 @@ To cite this repository, use the following format:
 
 **APA (7th ed.)**
 
-> Sung, E. (2025). *3D-imaging-analysis-pipeline: Initial Release* (Version v0.1) [Computer software]. Zenodo. [10.5281/zenodo.16689460]{(https://doi.org/10.5281/zenodo.16689460)}
+Sung, E. (2025). *3D-imaging-analysis-pipeline: Initial Release* (Version v0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.16689460
 
 **BibTeX**
 
